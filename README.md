@@ -2,7 +2,9 @@
 Instruções para atividade prática do hands-on de IA
 
 
-Experimento de texto 1. Clique no ícone no canto superior direito da caixa abaixo e cole no GPT3.5.
+## Experimento de texto 1. 
+
+Clique no ícone no canto superior direito da caixa abaixo e cole no GPT3.5.
 
 ```
 Vou te passar alguns laudos de Tomografias de Crânio.
@@ -113,7 +115,9 @@ DVE com extremidade distal no terceiro ventrículo.
 
 ```
 
-Experimento de texto 2. Clique no ícone no canto superior direito da caixa abaixo e cole numa nova sessão com o GPT3.5.
+## Experimento de texto 2. 
+
+Clique no ícone no canto superior direito da caixa abaixo e cole numa nova sessão com o GPT3.5.
 
 ```
 Vou te passar alguns laudos de Tomografias de Crânio.
@@ -224,7 +228,9 @@ Hemorragia subaracnóide aguda com hemoventrículo.
 DVE com extremidade distal no terceiro ventrículo.
 ```
 
-Experimento de texto 3. Clique no ícone no canto superior direito da caixa abaixo e cole na mesma sessão anterior com o GPT3.5.
+## Experimento de texto 3. 
+
+Clique no ícone no canto superior direito da caixa abaixo e cole na mesma sessão anterior com o GPT3.5.
 
 ```
 Agora refaça a tabela, considerando como achados críticos:
